@@ -9,7 +9,6 @@ import { CursorContext } from "@/context/cursor-context";
 
 const shareTech = Share_Tech({ weight: "400", subsets: ["latin"] });
 
-
 const AboutIITMandi = () => {
   const { setIsHovered } = useContext(CursorContext);
 
