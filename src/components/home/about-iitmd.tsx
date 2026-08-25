@@ -7,7 +7,6 @@ import { Share_Tech } from "next/font/google";
 import Link from "next/link";
 import { CursorContext } from "@/context/cursor-context";
 
-
 const shareTech = Share_Tech({ weight: "400", subsets: ["latin"] });
 
 const AboutIITMandi = () => {
