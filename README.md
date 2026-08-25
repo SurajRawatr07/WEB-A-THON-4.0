@@ -1,134 +1,125 @@
-# ⚡ NIRVAN '26 — TECHCLUB
+# ⚡ NIRVAN '26 — GEHU HALDWANI
 
 <div align="center">
 
-### TECHCIRCLE BY AI PRESENTS
+<img src="public/logo.png" alt="NIRVAN '26" width="180"/>
 
 # NIRVAN '26
 
-### GEHU HALDWANI • TECHFEST
+### TECHCIRCLE BY AI PRESENTS
 
-A modern, immersive and interactive technical fest experience built for the web.
+**GEHU HALDWANI TECHFEST**
 
-<br />
+📅 **12–13 October 2026**  
+📍 **Graphic Era Hill University, Haldwani, Uttarakhand**
+
+<br/>
 
 [![Live Website](https://img.shields.io/badge/Live%20Website-techcircle40.netlify.app-00D9FF?style=for-the-badge&logo=netlify&logoColor=white)](https://techcircle40.netlify.app/)
+
 [![React](https://img.shields.io/badge/React-18+-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![Netlify](https://img.shields.io/badge/Deployed%20on-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
 
 </div>
 
 ---
 
-## 🌌 About The Project
+## 🌌 About NIRVAN '26
 
-**NIRVAN '26** is a modern technical fest experience designed for
-**Graphic Era Hill University, Haldwani**.
+**NIRVAN '26** is the annual technical fest of **Graphic Era Hill University, Haldwani Campus**.
 
-The platform brings together:
+The fest brings together:
 
-- 🏆 Competitions
-- 💻 Hackathons
-- 🎮 Esports
-- 🔐 Cybersecurity Challenges
-- 🧩 Treasure Hunt
-- 🛠️ Tech Workshops
-- 🎤 Industry Speakers
-- 🤝 Community Networking
-- 📸 Sponsors & Gallery
-- 🚀 Campus Ambassador Program
+- Developers
+- Innovators
+- Designers
+- Technology enthusiasts
+- Gamers
+- Cybersecurity enthusiasts
 
-The website is designed around one core idea:
+across two days of competitions, workshops, challenges and collaboration.
 
-> **Build → Learn → Compete → Connect → Create → Celebrate**
+The platform is designed to create a complete digital experience for discovering events, checking schedules, exploring speakers, viewing sponsors and registering for activities.
+
+> **Where Ideas Become Innovation.**
 
 ---
 
-# 🔥 Website Flow
+# 🧭 Website Flow
 
 ```text
-                           ┌──────────────────────┐
-                           │      NIRVAN '26      │
-                           │    Landing Page      │
-                           └──────────┬───────────┘
-                                      │
-                                      ▼
-                         ┌─────────────────────────┐
-                         │    Featured Events      │
-                         │                         │
-                         │ • Esports Arena         │
-                         │ • Capture The Flag      │
-                         └────────────┬────────────┘
-                                      │
-                                      ▼
-                         ┌─────────────────────────┐
-                         │       EVENT ARENA       │
-                         └────────────┬────────────┘
-                                      │
-             ┌────────────────────────┼────────────────────────┐
-             │                        │                        │
-             ▼                        ▼                        ▼
-     ┌───────────────┐       ┌────────────────┐       ┌─────────────────┐
-     │ Hackathon /   │       │ Esports Arena  │       │ Treasure Hunt   │
-     │ Web-A-Thon    │       │                │       │                 │
-     └───────┬───────┘       └───────┬────────┘       └────────┬────────┘
-             │                       │                         │
-             └───────────────────────┼─────────────────────────┘
-                                     │
-                         ┌───────────▼───────────┐
-                         │  Capture The Flag     │
-                         │  Tech Workshop        │
-                         └───────────┬───────────┘
-                                     │
-                                     ▼
-                         ┌─────────────────────────┐
-                         │       SCHEDULE          │
-                         │                         │
-                         │ Opening Ceremony        │
-                         │ Hackathon               │
-                         │ Treasure Hunt           │
-                         │ Esports                 │
-                         │ CTF                     │
-                         │ HackSprint               │
-                         └────────────┬────────────┘
-                                      │
-                                      ▼
-                         ┌─────────────────────────┐
-                         │        SPEAKERS         │
-                         │                         │
-                         │ AI • Web • Cybersecurity│
-                         └────────────┬────────────┘
-                                      │
-                                      ▼
-                       ┌──────────────────────────────┐
-                       │     SPONSORS & GALLERY       │
-                       │                              │
-                       │ Sponsors • Communities •     │
-                       │ Event Moments                │
-                       └──────────────┬───────────────┘
-                                      │
-                                      ▼
-                         ┌─────────────────────────┐
-                         │      ABOUT NIRVAN       │
-                         │                         │
-                         │     About GEHU          │
-                         └────────────┬────────────┘
-                                      │
-                         ┌────────────┴─────────────┐
-                         │                          │
-                         ▼                          ▼
-              ┌────────────────────┐      ┌─────────────────────┐
-              │ CAMPUS AMBASSADOR  │      │   CONTACT & VENUE   │
-              │                    │      │                     │
-              │ Join the Network   │      │ Register Now         │
-              └─────────┬──────────┘      └──────────┬──────────┘
-                        │                            │
-                        └──────────────┬─────────────┘
-                                       ▼
-                            ┌────────────────────┐
-                            │   PARTICIPATION    │
-                            │                    │
-                            │ Learn • Compete •  │
-                            │ Connect • Create   │
-                            └────────────────────┘
+                              ┌─────────────────────┐
+                              │      NIRVAN '26     │
+                              │     LANDING PAGE    │
+                              └──────────┬──────────┘
+                                         │
+                                         ▼
+                              ┌─────────────────────┐
+                              │  FEATURED EVENTS    │
+                              └──────────┬──────────┘
+                                         │
+                     ┌───────────────────┼───────────────────┐
+                     │                   │                   │
+                     ▼                   ▼                   ▼
+              ┌──────────────┐    ┌──────────────┐    ┌──────────────┐
+              │ Esports Arena│    │ Capture Flag │    │   Explore    │
+              └──────┬───────┘    └──────┬───────┘    │    Events    │
+                     │                   │              └──────┬───────┘
+                     └───────────────────┼─────────────────────┘
+                                         │
+                                         ▼
+                              ┌─────────────────────┐
+                              │    EVENT ARENA      │
+                              └──────────┬──────────┘
+                                         │
+            ┌────────────────────────────┼────────────────────────────┐
+            │                            │                            │
+            ▼                            ▼                            ▼
+   ┌─────────────────┐         ┌─────────────────┐         ┌─────────────────┐
+   │ Hackathon /     │         │ Esports Arena   │         │ Treasure Hunt   │
+   │ Web-A-Thon 4.0  │         │                 │         │                 │
+   └────────┬────────┘         └────────┬────────┘         └────────┬────────┘
+            │                           │                           │
+            └───────────────────────────┼───────────────────────────┘
+                                        │
+                         ┌──────────────┴──────────────┐
+                         ▼                             ▼
+                ┌─────────────────┐          ┌────────────────────┐
+                │ Capture The Flag│          │ Hands-on Workshop  │
+                └────────┬────────┘          └──────────┬─────────┘
+                         │                              │
+                         └──────────────┬───────────────┘
+                                        ▼
+                              ┌─────────────────────┐
+                              │      SCHEDULE       │
+                              └──────────┬──────────┘
+                                         │
+                                         ▼
+                              ┌─────────────────────┐
+                              │      SPEAKERS       │
+                              └──────────┬──────────┘
+                                         │
+                                         ▼
+                              ┌─────────────────────┐
+                              │ SPONSORS & GALLERY  │
+                              └──────────┬──────────┘
+                                         │
+                                         ▼
+                              ┌─────────────────────┐
+                              │    ABOUT NIRVAN     │
+                              └──────────┬──────────┘
+                                         │
+                              ┌──────────┴──────────┐
+                              ▼                     ▼
+                    ┌──────────────────┐   ┌──────────────────┐
+                    │   ABOUT GEHU     │   │ CAMPUS AMBASSADOR│
+                    └────────┬─────────┘   └────────┬─────────┘
+                             │                      │
+                             └──────────┬───────────┘
+                                        ▼
+                              ┌─────────────────────┐
+                              │  CONTACT & VENUE    │
+                              │    REGISTER NOW     │
+                              └─────────────────────┘
