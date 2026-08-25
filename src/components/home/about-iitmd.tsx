@@ -1,5 +1,4 @@
 "use client";
-
 import React, { useContext } from "react";
 import StaggeredText from "@/components/home/staggered-text";
 import Image from "next/image";
