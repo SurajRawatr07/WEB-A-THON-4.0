@@ -1,0 +1,80 @@
+/* [project]/src/styles/marquee.module.css [app-client] (css) */
+.marquee-module__VtgZCW__marquee {
+  white-space: nowrap;
+  margin: 0 auto;
+  animation: 5s step-end 3 marquee-module__VtgZCW__flicker;
+  position: absolute;
+  overflow: hidden;
+}
+
+.marquee-module__VtgZCW__marquee span {
+  padding-left: 100%;
+  animation: 50s linear infinite marquee-module__VtgZCW__marquee;
+  display: inline-block;
+}
+
+@keyframes marquee-module__VtgZCW__marquee {
+  0% {
+    transform: translate(0);
+  }
+
+  100% {
+    transform: translate(-100%);
+  }
+}
+
+@keyframes marquee-module__VtgZCW__flicker {
+  0% {
+    opacity: 0;
+  }
+
+  1% {
+    opacity: 1;
+  }
+
+  2% {
+    opacity: .3;
+  }
+
+  3% {
+    opacity: .7;
+  }
+
+  4% {
+    opacity: .3;
+  }
+
+  6% {
+    opacity: 1;
+  }
+
+  25% {
+    opacity: .3;
+  }
+
+  26% {
+    opacity: 1;
+  }
+
+  27% {
+    opacity: .3;
+  }
+
+  28% {
+    opacity: 1;
+  }
+
+  75% {
+    opacity: .3;
+  }
+
+  76% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+/*# sourceMappingURL=src_styles_marquee_module_css_bad6b30c._.single.css.map*/

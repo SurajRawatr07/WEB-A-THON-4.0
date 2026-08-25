@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/src/styles/marquee.module.css"],"sourcesContent":[".marquee {\n\tmargin: 0 auto;\n\twhite-space: nowrap;\n\toverflow: hidden;\n\tposition: absolute;\n\tanimation: flicker 5s step-end;\n\tanimation-iteration-count: 3;\n}\n\n.marquee span {\n\tdisplay: inline-block;\n\tpadding-left: 100%;\n\tanimation: marquee 50s linear infinite;\n}\n\n@keyframes marquee {\n\t0% {\n\t\ttransform: translate(0, 0);\n\t}\n\t100% {\n\t\ttransform: translate(-100%, 0);\n\t}\n}\n\n@keyframes flicker {\n\t0% {\n\t\topacity: 0;\n\t}\n\t1% {\n\t\topacity: 1;\n\t}\n\t2% {\n\t\topacity: 0.3;\n\t}\n\t3% {\n\t\topacity: 0.7;\n\t}\n\t4% {\n\t\topacity: 0.3;\n\t}\n\t6% {\n\t\topacity: 1;\n\t}\n\t25% {\n\t\topacity: 0.3;\n\t}\n\t26% {\n\t\topacity: 1;\n\t}\n\t27% {\n\t\topacity: 0.3;\n\t}\n\t28% {\n\t\topacity: 1;\n\t}\n\t75% {\n\t\topacity: 0.3;\n\t}\n\t76% {\n\t\topacity: 1;\n\t}\n\t100% {\n\t\topacity: 1;\n\t}\n}"],"names":[],"mappings":"AAAA;;;;;;;;AASA;;;;;;AAMA;;;;;;;;;;AASA"}}]
+}

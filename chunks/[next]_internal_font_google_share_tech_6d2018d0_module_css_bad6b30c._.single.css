@@ -1,0 +1,26 @@
+/* [next]/internal/font/google/share_tech_6d2018d0.module.css [app-client] (css) */
+@font-face {
+  font-family: Share Tech;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../media/ad14a61bd42b9106-s.p.08dee4a9.woff2") format("woff2");
+  unicode-range: U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: Share Tech Fallback;
+  src: local(Arial);
+  ascent-override: 98.88%;
+  descent-override: 27.04%;
+  line-gap-override: 0.0%;
+  size-adjust: 89.5%;
+}
+
+.share_tech_6d2018d0-module__D8IUOa__className {
+  font-family: Share Tech, Share Tech Fallback;
+  font-style: normal;
+  font-weight: 400;
+}
+
+/*# sourceMappingURL=%5Bnext%5D_internal_font_google_share_tech_6d2018d0_module_css_bad6b30c._.single.css.map*/
