@@ -1,26 +1,21 @@
-# 🚀 WEB-A-THON 4.0
+# ⚡ NIRVAN '26 — TECHCLUB
 
 <div align="center">
 
-<img src="public/logo.png" alt="WEB-A-THON 4.0" width="180"/>
+### TECHCIRCLE BY AI PRESENTS
 
-# WEB-A-THON 4.0
+# NIRVAN '26
 
-### ⚡ Build. Create. Innovate.
+### GEHU HALDWANI • TECHFEST
 
-A modern, immersive and responsive event experience built with modern frontend technologies.
+A modern, immersive and interactive technical fest experience built for the web.
 
-<br/>
+<br />
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Website-00D4FF?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_LIVE_LINK)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](YOUR_GITHUB_LINK)
-
+[![Live Website](https://img.shields.io/badge/Live%20Website-techcircle40.netlify.app-00D9FF?style=for-the-badge&logo=netlify&logoColor=white)](https://techcircle40.netlify.app/)
 [![React](https://img.shields.io/badge/React-18+-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 
 </div>
 
@@ -28,103 +23,112 @@ A modern, immersive and responsive event experience built with modern frontend t
 
 ## 🌌 About The Project
 
-**WEB-A-THON 4.0** is a next-generation event website designed to provide participants with a fast, interactive and visually immersive experience.
+**NIRVAN '26** is a modern technical fest experience designed for
+**Graphic Era Hill University, Haldwani**.
 
-The platform brings event discovery, competitions, schedules, announcements and community engagement into a single modern interface.
+The platform brings together:
 
-The project focuses on:
+- 🏆 Competitions
+- 💻 Hackathons
+- 🎮 Esports
+- 🔐 Cybersecurity Challenges
+- 🧩 Treasure Hunt
+- 🛠️ Tech Workshops
+- 🎤 Industry Speakers
+- 🤝 Community Networking
+- 📸 Sponsors & Gallery
+- 🚀 Campus Ambassador Program
 
-- 🎨 Premium UI/UX
-- ⚡ Fast and responsive frontend
-- 🎬 Smooth animations
-- 📱 Mobile-first experience
-- 🧩 Reusable components
-- 🌐 Modern web architecture
-- 🏆 Engaging event experience
+The website is designed around one core idea:
 
-> **We didn't just build a website. We built an experience.**
-
----
-
-## ✨ Features
-
-### 🏠 Interactive Homepage
-
-A visually engaging landing page with modern animations, dynamic sections and clear event information.
-
-### 🎪 Events & Competitions
-
-Explore different events, competitions and activities through an organized and intuitive interface.
-
-### 📅 Event Schedule
-
-View upcoming activities, competitions, workshops and important event timelines.
-
-### 🏆 Competition Experience
-
-Dedicated sections for showcasing challenges, participation details and competition information.
-
-### 📢 Announcements
-
-Stay updated with important event announcements and latest updates.
-
-### 👥 Community
-
-A dedicated experience for participants, organizers and the wider developer community.
-
-### 🎨 Modern Animations
-
-Smooth transitions, hover effects, micro-interactions and motion-based UI elements.
-
-### 📱 Fully Responsive
-
-Optimized for:
-
-- Desktop
-- Laptop
-- Tablet
-- Mobile
+> **Build → Learn → Compete → Connect → Create → Celebrate**
 
 ---
 
-## 🛠️ Tech Stack
-
-| Technology | Usage |
-|---|---|
-| ⚛️ React | Frontend Development |
-| 🟦 TypeScript | Type Safety |
-| 🎨 Tailwind CSS | Styling |
-| 🎬 Framer Motion | Animations |
-| 🧩 shadcn/ui | UI Components |
-| 🎯 Lucide React | Icons |
-| ⚡ Vite | Build Tool |
-| 🧭 React Router | Navigation |
-
----
-
-## 🏗️ Architecture
+# 🔥 Website Flow
 
 ```text
-WEB-A-THON 4.0
-│
-├── public/
-│   ├── images/
-│   ├── icons/
-│   └── assets/
-│
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── sections/
-│   ├── hooks/
-│   ├── lib/
-│   ├── assets/
-│   │
-│   ├── App.tsx
-│   └── main.tsx
-│
-├── package.json
-├── vite.config.ts
-├── tailwind.config.ts
-├── tsconfig.json
-└── README.md
+                           ┌──────────────────────┐
+                           │      NIRVAN '26      │
+                           │    Landing Page      │
+                           └──────────┬───────────┘
+                                      │
+                                      ▼
+                         ┌─────────────────────────┐
+                         │    Featured Events      │
+                         │                         │
+                         │ • Esports Arena         │
+                         │ • Capture The Flag      │
+                         └────────────┬────────────┘
+                                      │
+                                      ▼
+                         ┌─────────────────────────┐
+                         │       EVENT ARENA       │
+                         └────────────┬────────────┘
+                                      │
+             ┌────────────────────────┼────────────────────────┐
+             │                        │                        │
+             ▼                        ▼                        ▼
+     ┌───────────────┐       ┌────────────────┐       ┌─────────────────┐
+     │ Hackathon /   │       │ Esports Arena  │       │ Treasure Hunt   │
+     │ Web-A-Thon    │       │                │       │                 │
+     └───────┬───────┘       └───────┬────────┘       └────────┬────────┘
+             │                       │                         │
+             └───────────────────────┼─────────────────────────┘
+                                     │
+                         ┌───────────▼───────────┐
+                         │  Capture The Flag     │
+                         │  Tech Workshop        │
+                         └───────────┬───────────┘
+                                     │
+                                     ▼
+                         ┌─────────────────────────┐
+                         │       SCHEDULE          │
+                         │                         │
+                         │ Opening Ceremony        │
+                         │ Hackathon               │
+                         │ Treasure Hunt           │
+                         │ Esports                 │
+                         │ CTF                     │
+                         │ HackSprint               │
+                         └────────────┬────────────┘
+                                      │
+                                      ▼
+                         ┌─────────────────────────┐
+                         │        SPEAKERS         │
+                         │                         │
+                         │ AI • Web • Cybersecurity│
+                         └────────────┬────────────┘
+                                      │
+                                      ▼
+                       ┌──────────────────────────────┐
+                       │     SPONSORS & GALLERY       │
+                       │                              │
+                       │ Sponsors • Communities •     │
+                       │ Event Moments                │
+                       └──────────────┬───────────────┘
+                                      │
+                                      ▼
+                         ┌─────────────────────────┐
+                         │      ABOUT NIRVAN       │
+                         │                         │
+                         │     About GEHU          │
+                         └────────────┬────────────┘
+                                      │
+                         ┌────────────┴─────────────┐
+                         │                          │
+                         ▼                          ▼
+              ┌────────────────────┐      ┌─────────────────────┐
+              │ CAMPUS AMBASSADOR  │      │   CONTACT & VENUE   │
+              │                    │      │                     │
+              │ Join the Network   │      │ Register Now         │
+              └─────────┬──────────┘      └──────────┬──────────┘
+                        │                            │
+                        └──────────────┬─────────────┘
+                                       ▼
+                            ┌────────────────────┐
+                            │   PARTICIPATION    │
+                            │                    │
+                            │ Learn • Compete •  │
+                            │ Connect • Create   │
+                            └────────────────────┘
